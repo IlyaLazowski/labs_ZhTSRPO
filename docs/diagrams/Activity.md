@@ -8,7 +8,7 @@
 
 
 ### 1. Вход в аккаунт<a name="1"></a>
-<img src="https://github.com/IlyaLazowski/labs_ZhTSRPO/blob/main/docs/diagrams/images/EntranceActivityDiagram.png" alt="Вход в аккаунт" width="300"  height="800"  />
+<img src="https://github.com/IlyaLazowski/labs_ZhTSRPO/blob/main/docs/diagrams/images/EntranceActivityDiagram.png" alt="Вход в аккаунт" width="200"  height="600"  />
 
 ### 2. Регистрация<a name="2"></a>
 
@@ -20,4 +20,4 @@
 
 ### 4. Отображение графиков<a name="4"></a>
 
-<img src="https://github.com/IlyaLazowski/labs_ZhTSRPO/blob/main/docs/diagrams/images/GraphicsActivityDiagram.png" alt="Отображение графиков" width="300"  height="800"/>
+<img src="https://github.com/IlyaLazowski/labs_ZhTSRPO/blob/main/docs/diagrams/images/GraphicsActivityDiagram.png" alt="Отображение графиков"  width="200"  height="600" />
