@@ -11,3 +11,5 @@
 [User interface images](https://github.com/IlyaLazowski/lab2_ZhTSRPO/tree/main/docs/mocaps)
 
 [Diagrams](https://github.com/IlyaLazowski/labs_ZhTSRPO/tree/main/docs/diagrams)
+
+[Tests](https://github.com/IlyaLazowski/labs_ZhTSRPO/tree/main/docs/tests)
